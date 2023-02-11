@@ -1,6 +1,6 @@
 
 # Oiii!! Eu sou a Aureana Santos👋
-## Desenvolvedora Front-End
+## Desenvolvedora web Full Stack
 ####  E-mail: aureana2018@outlook.com
 ##
 
